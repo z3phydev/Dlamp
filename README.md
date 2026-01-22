@@ -12,7 +12,7 @@ Because compared to the simple fact its such a easy thing to make and how visual
 
 ## Wiring Diagram
 
-*yet to be added*
+<img width="1129" height="596" alt="image (2)" src="https://github.com/user-attachments/assets/06547fd7-6f2d-430a-a18e-28f1b58c73ae" />
 
 ## BOM
 
