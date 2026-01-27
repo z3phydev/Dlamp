@@ -3,6 +3,8 @@
 It is a minimalist desk lamp, consiting of only 3 main cylinders. It has a PWN Dimmer which is seemlessly intgrated.
 ## Why did I make it?
 Because compared to the simple fact its such a easy thing to make and how visually appleing it is. Also it is a great starter project for anyone getting into eletronics and making.
+## How to use
+Just plug a USB C cable in from most wall outlets and turn the potentiometer to adjust brightness.
 
 ## 3D Model
 
